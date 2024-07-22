@@ -1,7 +1,6 @@
 ---
 title: Como instalar Arch Linux
 description: Esta guía ha sido creada con el propósito de facilitar la instalación de Arch Linux. Casi toda la información recopilada en esta guía a sido obtenida de la wiki oficial de Arch Linux.
-author: jose-prk
 date: 2024-07-21 19:28:00 +0200
 categories: [Linux]
 tags: [Linux, Arch Linux, Avanzado]
